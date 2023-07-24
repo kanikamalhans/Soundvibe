@@ -1,6 +1,6 @@
 This project is made for submission to Anveshan Foundation's 6-Week Online Internship Program. The topic I chose Is Web Development , I have used HTML & CSS to build a responsive frontend music player. 
 
-The link to the website is: 
+The link to the website is: https://kanikamalhans.github.io/Soundvibe/ 
 
 Here are the screenshots of the same:
 
