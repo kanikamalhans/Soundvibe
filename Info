@@ -1,0 +1,75 @@
+
+For the second screen, which focuses on a single advisor and their related customers and products, here are five parameters that can be used to create various graphs and charts. Each parameter provides insights into different aspects of the advisor's performance and their relationship with customers and products. The visualizations can be adjusted to show trends and data year-wise to track changes over time.
+
+1. Customer Distribution by Product Type
+Pie Chart:
+
+Purpose: To show how the advisor's customers are distributed across different product types.
+Data Representation: Each slice of the pie represents a different product category (e.g., mutual funds, stocks, bonds, insurance).
+Insights: This chart helps in understanding the product preferences of the advisor's clients and can highlight which products are more popular or underrepresented.
+Year-Wise Analysis:
+
+Bar Chart: Tracks the changes in the distribution of products over different years, showing trends in customer preferences for each product type.
+2. Customer Portfolio Value Distribution
+Bar Chart:
+
+Purpose: To visualize the distribution of the total portfolio values held by the advisor's customers.
+Data Representation: Each bar represents a range of portfolio values (e.g., $0-$100k, $100k-$500k, $500k-$1M, etc.), showing how many customers fall into each range.
+Insights: This helps in identifying the advisor's focus on clients with varying levels of investment and can guide strategies for client engagement and retention.
+Year-Wise Analysis:
+
+Line Graph: Displays the growth or changes in the average portfolio value of the advisor’s customers over time.
+3. Advisor's Performance Metrics
+Bar Chart:
+
+Purpose: To track key performance metrics for the advisor, such as the number of new clients acquired, total revenue generated, or assets under management (AUM).
+Data Representation: Each bar represents a specific metric for a given year.
+Insights: This provides a clear view of the advisor's performance trends and can highlight areas of success or concern.
+Year-Wise Analysis:
+
+Multi-Line Chart: Shows multiple performance metrics (e.g., client growth, revenue, AUM) over the years to compare and analyze different aspects of the advisor’s success.
+4. Customer Retention and Churn Rates
+Pie Chart:
+
+Purpose: To illustrate the proportion of customers retained versus those who have left (churned) over a specific period.
+Data Representation: Each slice represents retained customers versus churned customers.
+Insights: This chart helps in understanding customer loyalty and identifying potential issues that might be causing customers to leave.
+Year-Wise Analysis:
+
+Stacked Bar Chart: Shows the retention and churn rates year-wise, providing insights into how these rates are changing over time.
+5. Customer Interaction Frequency
+Heatmap or Bubble Chart:
+
+Purpose: To depict the frequency of interactions between the advisor and their customers.
+Data Representation: Each bubble or cell represents a different customer or group of customers, with the size or color intensity indicating the number of interactions (e.g., meetings, calls, emails) within a given timeframe.
+Insights: This visualization highlights which customers are getting the most attention and can reveal if any customers are being neglected.
+Year-Wise Analysis:
+
+Line or Area Chart: Tracks the average number of interactions per customer over the years, showing trends in how the advisor's engagement with clients evolves over time.
+Detailed Example Content for Screen 2
+Graph Visualization:
+
+Interactive Network Graph: Focuses on a single advisor (central node), showing direct connections to their customers and the products those customers hold. Each node and connection is interactive, allowing users to explore details such as customer demographics or product specifics.
+Supporting Charts Below the Graph:
+
+Customer Distribution by Product Type:
+
+Pie Chart: Visualizes the advisor's clients categorized by the types of products they have invested in.
+Bar Chart (Year-Wise): Displays the shifts in customer investment preferences over time.
+Customer Portfolio Value Distribution:
+
+Bar Chart: Highlights how many customers fall into different portfolio value ranges.
+Line Graph (Year-Wise): Shows the average portfolio value growth or decline per year.
+Advisor's Performance Metrics:
+
+Bar Chart: Tracks metrics like new client acquisition, revenue generation, and AUM for each year.
+Multi-Line Chart (Year-Wise): Compares multiple performance metrics across different years.
+Customer Retention and Churn Rates:
+
+Pie Chart: Represents the proportion of customers who stayed versus those who left.
+Stacked Bar Chart (Year-Wise): Visualizes retention and churn rates over time.
+Customer Interaction Frequency:
+
+Heatmap or Bubble Chart: Shows the frequency of interactions with each customer.
+Line or Area Chart (Year-Wise): Tracks changes in the average number of interactions per customer year by year.
+By implementing these visualizations, the screen provides a comprehensive and dynamic view of an advisor’s professional landscape, offering insights that can drive strategic decision-making and enhance customer relationships
